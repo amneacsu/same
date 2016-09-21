@@ -1,13 +1,13 @@
 {
-    "parserOptions": {
-        "ecmaVersion": 6,
-        "sourceType": "module",
-        "ecmaFeatures": {},
-    },
-    "rules": {
-        "semi": 2,
-        "no-unused-vars": 2,
-        "no-redeclare": 2,
-        "no-param-reassign": 2
-    }
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {},
+  },
+  "rules": {
+    "semi": 2,
+    "no-unused-vars": 1,
+    "no-redeclare": 2,
+    "no-param-reassign": 2,
+  }
 }
